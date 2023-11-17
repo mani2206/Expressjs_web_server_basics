@@ -1,0 +1,4 @@
+20231116	04:14:59	f25e5276-c41f-49c5-9192-132dceb2f582	Error:not allowed by cors
+20231116	04:30:28	cb404479-7a0e-4c9a-87f2-3ebca62b3a7c	Error:not allowed by cors
+20231116	08:52:58	23902dff-07c4-4674-9275-c32aa5743f2f	TypeError:res.accepts is not a function
+20231116	08:58:08	ee805c87-acb8-4684-8e6e-4627e9489a84	TypeError:res.accepts is not a function
